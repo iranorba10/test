@@ -1,2 +1,16 @@
 const test="test";
-alert("Привіn blablablabla")
+alert("Привіт");
+wjdhsjdhsj
+wfsed
+s
+sd
+csds
+sd
+s
+d
+s
+dss
+ds
+s
+ds
+blablablabla
