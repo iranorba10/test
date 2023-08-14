@@ -1,3 +1,3 @@
-const test="test";
-alert("Привіт");
-blablablabla
+const testDev="dev";
+alert("Привіт, тестуємо git");
+створення вітки dev
